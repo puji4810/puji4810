@@ -8,7 +8,7 @@
 - 📫 How to reach me
   - please email 2430438586@qq.com
 
-- 😄 Pronouns: 噗叽
+- 😄 Pronouns: 噗叽 puji
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=puji4810&show_icons=true&theme=tokyonight)
 
