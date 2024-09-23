@@ -10,8 +10,6 @@
 
 - 😄 Pronouns: 噗叽 puji
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=puji4810&show_icons=true&theme=tokyonight)
-
 <table>
   <tr>
     <td>
