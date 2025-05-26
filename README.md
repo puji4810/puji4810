@@ -1,6 +1,7 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C%20I'm%20Puji!%20👋;Welcome%20to%20my%20Profile!;Always%20learning%20and%20growing...&center=true&size=27" />
-</div>
+  <div>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=(%22Hello%2C%20World!%22);&center=true&size=27" />
+    </a>
+  </div>
 
 ---
 Hi there, I’m @puji4810 (噗叽 puji) 👋
