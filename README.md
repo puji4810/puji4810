@@ -4,16 +4,7 @@
   </div>
 
 ---
-Hi there, I’m @puji4810 (噗叽 puji) 👋
-
-I'm a passionate learner interested in the ever-evolving world of technology, the captivating stories within books, and the emotive power of music.
-
-## 👀 I'm interested in
-
-* 📚 **Reading:** Especially fond of History and Biographies.
-* 🎧 **Music:** Enjoys Rock, Blues, and Gospel.
-* 💻 **Technology:**
-    * Keep Learning...
+Hi!
 
 ## 📊 GitHub Stats
 
@@ -26,8 +17,6 @@ I'm a passionate learner interested in the ever-evolving world of technology, th
 ## 📫 How to reach me
 
 * 📧 Email: [sspuji4810@gmail.com](mailto:sspuji4810@gmail.com)
-
-😄 **Pronouns:** 噗叽 (puji)
 
 ---
 <div align="center">
