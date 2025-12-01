@@ -8,8 +8,6 @@ Hi!
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=puji4810&show_icons=true&theme=radical&rank_icon=github" alt="puji4810's GitHub stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puji4810&layout=compact&theme=radical" alt="Top Languages" />
 </p>
