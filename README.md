@@ -6,12 +6,6 @@
 ---
 Hi!
 
-## 📊 GitHub Stats
-
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puji4810&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
 ## 📫 How to reach me
 
 * 📧 Email: [sspuji4810@gmail.com](mailto:sspuji4810@gmail.com)
